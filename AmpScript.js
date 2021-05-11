@@ -1,5 +1,7 @@
-const button = document.getElementById('download-amp-button');
+// const button = document.getElementById('download-amp-button');
 
-button.addEventListener('click', () => {
-  alert("hii")
-});
+// button.addEventListener('click', () => {
+//   alert("hii")
+// });
+
+console.log("cdn active")
