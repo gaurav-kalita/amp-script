@@ -4,4 +4,5 @@
 //   alert("hii")
 // });
 
-console.log("cdn active")
+const domContainer = document.querySelector('#percentage-circle');
+ReactDOM.render(<PercentageCircle percentage={30} color={`#fff` size={100}}/>, domContainer);
